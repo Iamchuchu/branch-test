@@ -3,3 +3,4 @@ second edition
 third edition
 issue closed
 hotfix team solution
+New function add
